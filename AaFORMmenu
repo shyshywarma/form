@@ -1,0 +1,96 @@
+<html>
+
+<body bgcolor="C43A3A">
+<img src="----">
+<p>Fried Chicken:</p>
+<input type="radio" id="price" name="Price">
+<label for="price1"> 1 piece: ₱100 </label>
+<br>
+<input type="radio" id="price" name="Price">
+<label for="price2"> 2 pieces: ₱200 </label>
+<br>
+<input type="radio" id="price" name="Price">
+<label for="price3"> 3 pieces: ₱250 </label>
+<br>
+<input type="radio" id="price" name="Price">
+<label for="price4"> 4 pieces: ₱350 </label>
+<br>
+<input type="radio" id="price" name="Price">
+<label for="price5"> 5 pieces: ₱450 </label>
+<br>
+<input type="radio" id="price" name="Price">
+<label for="price6"> 6 pieces: ₱500 </label>
+<br>
+<br>
+<p>Flavor of Chicken:</p>
+<select name="flavor" id="flavor">
+<option value="Original">Original</option>
+<option value="Spicy">Spicy</option>
+<option value="SweetSpicy">Sweet&Spicy</option>
+<option value="Garlic">Garlic</option>
+</select>
+<br>
+<br>
+<br>
+<img src="----">
+<p>French Fries:</p>
+<input type="radio" id="price" name="Price">
+<label for="price1"> Regular: ₱48 </label>
+<br>
+<input type="radio" id="price" name="Price">
+<label for="price2"> Large: ₱52  </label>
+<br>
+<input type="radio" id="price" name="Price">
+<label for="price3"> Extra Large: ₱60 </label>
+<br>
+<input type="radio" id="price" name="Price">
+<label for="price4"> Bucket: ₱130 </label>
+<br>
+<p>Flavor of Fries:</p>
+<select name="flavor2" id="flavor2">
+<option value="Cheese">Cheese</option>
+<option value="BBQ">BBQ</option>
+<option value="Sour Cream">Sour Cream</option>
+</select>
+
+<br>
+<br>
+<img src="----">
+<p>Sundae:</p>
+<p> ₱35
+<select name="flavor3" id="flavor3">
+<option value="Chocolate">Chocolate</option>
+<option value="Vanilla">Vanilla</option>
+<option value="Strawberry">Strawberry</option>
+</select>
+<br>
+
+<img src="----">
+<br>
+<p> Burger </p>
+<img src="----">
+<br>
+<input type="checkbox" id="burger1" name="burger1" value="Beef">
+<label for="burger1">₱115: With Regular sized Fries and Drink</label>
+<label for="burger1">₱45: Solo </label>
+<br>
+<p>Cheese Burger</p>
+<img src="----">
+<br>
+<input type="checkbox" id="burger2" name="burger2" value="Cheese">
+<label for="burger2">₱125: With Regular sized Fries and Drink</label>
+<label for="burger2">₱55: Solo</label>
+<br>
+<p> Bacon Cheese Burger </p>
+<img src="----">
+<input type="checkbox" id="burger3" name="burger3" value="Bacon">
+<label for="burger3">₱140: With Regular sized Fries and Drink</label>
+<label for="burger3">₱65: Solo</label>
+<br>
+<p> Chicken Burger </p>
+<img src="----">
+<input type="checkbox" id="burger4" name="burger4" value="Chicken">
+<label for="burger4">₱150: With Regular sized Fries and Drink</label>
+<label for="burger4">₱70: Solo</label>
+</body>
+</html>

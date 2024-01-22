@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Terms of service</title>
+<link rel="stylesheet"type="text/css" href="styles.css">
+</head>
+
+<body bgcolor="C43A3A">
+
+<div class="wrapper flex_align_justify">
+<div class="terms_service">
+<div class="tc_itrm tc_head flex_align_justify">
+<div class="icon flex_align_justify"_>
+
+</div>
+
+<div class="text">
+<h2> TERMS OF SERVICE</h2>
+ <p>Last updated on January 16 2024</p>
+</div>
+
+<div class="tc_item tc_body"></div>
+<ol>
+<li>
+<h3>Introduction </h3>
+<p>Welcome to Jalobhie! By using our website and/or using the services that are provided, you acknowledge that you have read, understood, and agree to be bound by our Terms and Conditions. These Terms and Conditions unconditionally extend and apply to all related applications, internet service, or website extensions. If you are not in agreement with all of these Terms and Conditions, you are prohibited from using this Website, and you may discontinue use immediately. Jalobhie recommends that you save or print a copy of these Terms and Conditions for future reference.</p>
+</li>
+
+<li>
+<h3>Agreement to terms and conditions</h3>
+<p>Jalobhie Terms And Conditions these "Terms and Conditions contained in this Agreement shall govem your use of this Website and all its content. 
+These Terms outline the rules and regulations guiding the use of Jalobhie located at http://wwjalobhie.com. 
+All materials/information/documents/services or all other entities that appear on the jalobhie shall be administered subject to these Terms and Conditions. 
+These Terms and Conditions apply in full force and effect to your use of this Website, and the use of this Website constitutes an express agreement with all the terms and conditions contained herein in full. 
+Do not continue to use this Website if you have any objection to any of the Terms and Conditions stated on this page.</p>
+</li>
+
+<li>
+<h3>Definitions/Terminology </h3>
+<p>Jalobhie Terms And Conditions these "Terms and Conditions contained in this Agreement shall govem your use of this Website and all its content. 
+These Terms outline the rules and regulations guiding the use of Jalobhie located at http://wwjalobhie.com. 
+All materials/information/documents/services or all other entities that appear on the jalobhie shall be administered subject to these Terms and Conditions. 
+These Terms and Conditions apply in full force and effect to your use of this Website, and the use of this Website constitutes an express agreement with all the terms and conditions contained herein in full. 
+Do not continue to use this Website if you have any objection to any of the Terms and Conditions stated on this page.</p>
+</li>
+
+<br>
+<center><h2><mark>Terms of Agreement</h2></mark>
+<input type="radio" id="agreeorno" name="agree" value="agree">
+  <label for="agree"> I AGREE with the terms of agreement of this order form.</label><br>
+</center>
+<br>
